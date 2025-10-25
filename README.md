@@ -1,4 +1,4 @@
-# 🧩 Browser Extension (Created for Simplia) now available for anyone, licensed for me
+# 🧩 Browser Extension (Created for Simplia) Licensed under Apache
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
