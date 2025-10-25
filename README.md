@@ -26,3 +26,5 @@ I love automation — hence this extension! ⚙️✨
 - 🧩 Works seamlessly across browsers  
 - 💡 Lightweight, no unnecessary permissions  
 - 🧰 Open-source and easy to modify  
+
+Hope this concepts will be able to you all create extensions. For any doubts contact me (subirthecoder35@gmail.com)
